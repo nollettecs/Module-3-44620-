@@ -1,7 +1,13 @@
 # Matplotlib and pyplot
+## Module 3 (44-620)
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+- Cloned project onto personal workspace
+- Completed the 4 tasks in Python environment
+- Convereted Jupyter to an HTML copy (!jupyter nbconvert --to html pyplot.ipynb)
+- Updated README file
+- Saved project locally
+- Pushed project back to GitHub
+
 
 ## Rubric
 
